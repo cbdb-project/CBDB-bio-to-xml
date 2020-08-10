@@ -17,6 +17,8 @@ PS.
 
 Please make sure that the txt files you would like to parse are of .txt format
 
+My Python version is 3.7.4
+
 #Chinese Version
 
 第一步：
@@ -30,3 +32,9 @@ Please make sure that the txt files you would like to parse are of .txt format
 第三步：
 
 程序输出的文件格式为 .html。所有输出的文件都被存放于相同目录内名为”markus“的文件夹内。
+
+PS.
+
+请确保所有的输入文件为BIO格式
+
+我的Python版本为3.7.4
