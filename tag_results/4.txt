@@ -1,0 +1,16 @@
+char	tag
+正	B-date_reign
+大	I-date_reign
+三	B-date_year
+年	O
+守	B-office_voa
+魯	B-office_title
+山	I-office_title
+縣	I-office_title
+尉	I-office_title
+，	O
+修	O
+立	O
+臺	O
+碑	O
+。	O

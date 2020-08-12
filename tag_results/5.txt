@@ -1,0 +1,15 @@
+char	tag
+燕	O
+山	O
+人	O
+，	O
+明	B-date_reign
+昌	I-date_reign
+二	B-date_year
+年	O
+任	B-office_voa
+萬	B-office_title
+泉	I-office_title
+縣	I-office_title
+令	I-office_title
+。	O
