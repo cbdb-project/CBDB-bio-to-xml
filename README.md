@@ -7,7 +7,8 @@ The tagged txt files should be saved in a document folder named "tag_results". A
 
 STEP2:
 
-you could directly run the code in the package or import this module into your own script. In both ways, this python package will read the txt files and output xml files
+you could directly run the code in the package or import this module into your own script. In both ways, this python package will read the txt files and output xml files.
+When you directly run the code, use command "run bio2markus.py 50,1" in anaconda console. the 1st argument indicates how many biographics you would like to include per xml. The 2nd argument is set to 1 when you would like to generate markus id according to serial number and 0 when you would like to generate markus id according to name of the .txt files.
 
 STEP3:
 
@@ -31,6 +32,7 @@ PS.
 第二步：
 
 你可以直接运行脚本中的代码，你也可以使用import命令将这一模块导入你自己的Python脚本中。
+当你用anaconda直接运行程序时，使用命令 "run bio2markus.py 50,1"，其中第一个参数决定每个xml文件中传记的条数。至于后者，如果设为0，那么每条传记的markus id将设置为按照.txt文件名。如果设为1，那么每条传记的markus id 将设置为流水号。
 
 第三步：
 
