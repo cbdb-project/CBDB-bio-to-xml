@@ -31,7 +31,7 @@ PS.
 
 第一步：
 
-这一Python模块接收的BIO标注文件必须是txt格式。与此同时，这些txt格式文件应当被保存在文件夹"bio_output"中。而所有的输出文件则被保存在markus_output文件夹中。这些文件夹需要与bio2markus.py位于同一目录下
+这一Python模块接收的BIO标注文件必须是txt格式。与此同时，这些txt格式文件应当被保存在文件夹"bio_input"中。而所有的输出文件则被保存在markus_output文件夹中。这些文件夹需要与bio2markus.py位于同一目录下
 
 第二步：
 
